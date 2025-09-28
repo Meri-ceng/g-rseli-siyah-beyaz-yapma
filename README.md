@@ -1,0 +1,1 @@
+# g-rseli-siyah-beyaz-yapma
