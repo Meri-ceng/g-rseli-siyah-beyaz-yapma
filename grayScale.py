@@ -6,7 +6,6 @@ gri_resim = cv2.cvtColor(resim, cv2.COLOR_BGR2GRAY)
 
 cv2.imwrite("images/cilek_gri.jpg", gri_resim) #yeni ve gri resmimi kaydettim
 
-# Görselleri göster
 cv2.imshow("Orijinal", resim)
 cv2.imshow("Siyah-Beyaz", gri_resim)
 
