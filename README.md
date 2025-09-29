@@ -2,7 +2,7 @@
 
 Bu projede Python ve OpenCV kullanarak görselleri **siyah-beyaz (grayscale)** hale getirmeyi öğreneceğiz.  
 
-## 🚀 Kurulum
+## Kurulum
 
 Gerekli kütüphaneyi yükleyin:
 
