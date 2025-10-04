@@ -6,7 +6,7 @@ Bu projede Python ve OpenCV kullanarak görselleri **siyah-beyaz (grayscale)** h
 
 ## Kurulum
 
-```bash
+bash
 pip install opencv-python
 
 koda dahil edin:
