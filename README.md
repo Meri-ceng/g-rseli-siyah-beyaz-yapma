@@ -8,6 +8,7 @@ Gerekli kütüphaneyi yükleyin:
 
 ```bash
 pip install opencv-python
+***
 
 koda fotoğrafın yolunu eklleyin.
 
