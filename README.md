@@ -9,3 +9,7 @@ Gerekli kütüphaneyi yükleyin:
 ```bash
 pip install opencv-python
 
+koda fotoğrafın yolunu eklleyin.
+
+kodu çalıştırın ardından fotoğrafın orijinal ve değişmiş halini görün.
+
