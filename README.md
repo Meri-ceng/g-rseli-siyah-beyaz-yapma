@@ -15,6 +15,6 @@ koda dahil edin:
 
 import cv2
 
-koda fotoğrafın yolunu eklleyin.
+koda fotoğrafın yolunu ekleyin.
 
 kodu çalıştırın ardından fotoğrafın orijinal ve değişmiş halini görün.
